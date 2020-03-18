@@ -1,0 +1,2 @@
+rootProject.name='Prosta gra'
+include ':app'

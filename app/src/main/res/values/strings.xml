@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prosta gra</string>
+    <string name="tap_me">Tap me!</string>
+    <string name="your_score">Your Score: %15d</string>
+    <string name="time_left">Time left: %15d</string>
+    <string name="game_over_message">Time up, your score was: %15d</string>
+</resources>
